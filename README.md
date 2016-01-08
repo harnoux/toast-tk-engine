@@ -54,29 +54,12 @@ For the time being and once in a while, we merge pull requests into master, whic
 ├── app
 │   ├── toast-tk-adapters
 │   ├── toast-tk-adapters-api
-│   ├── toast-tk-adapters-api
-│   │   ├── home
-│   │   │   ├── FirstCtrl.js
-│   │   │   └── SecondCtrl.js
-│   │   └── about
-│   │       └── ThirdCtrl.js
-│   ├── directives
-│   │   ├── home
-│   │   │   └── directive1.js
-│   │   └── about
-│   │       ├── directive2.js
-│   │       └── directive3.js
-│   ├── filters
-│   │   ├── home
-│   │   └── about
-│   └── services
-│       ├── CommonService.js
-│       ├── cache
-│       │   ├── Cache1.js
-│       │   └── Cache2.js
-│       └── models
-│           ├── Model1.js
-│           └── Model2.js
+│   ├── toast-tk-dao
+│   ├── toast-tk-dao-api
+│   ├── toast-tk-drivers
+│   ├── toast-tk-rest-utils
+│   ├── toast-tk-runtime
+│   ├── toast-tk-runtime-api
 ├── LICENSE
 ├── pom.xml
 └── README.md
