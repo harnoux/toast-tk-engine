@@ -50,8 +50,7 @@ The main development happens on [Github](https://github.com/synaptix-labs/toast-
 For the time being and once in a while, we merge pull requests into master, which results in a new snapshot update. 
 
 ```
-.
-├── app
+toast-tk-engine
 ├── toast-tk-adapters
 ├── toast-tk-adapters-api
 ├── toast-tk-dao
