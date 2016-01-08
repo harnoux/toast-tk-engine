@@ -52,17 +52,14 @@ For the time being and once in a while, we merge pull requests into master, whic
 ```
 .
 ├── app
-│   ├── toast-tk-adapters
-│   ├── toast-tk-adapters-api
-│   ├── toast-tk-dao
-│   ├── toast-tk-dao-api
-│   ├── toast-tk-drivers
-│   ├── toast-tk-rest-utils
-│   ├── toast-tk-runtime
-│   ├── toast-tk-runtime-api
-├── LICENSE
-├── pom.xml
-└── README.md
+├── toast-tk-adapters
+├── toast-tk-adapters-api
+├── toast-tk-dao
+├── toast-tk-dao-api
+├── toast-tk-drivers
+├── toast-tk-rest-utils
+├── toast-tk-runtime
+└── toast-tk-runtime-api
 ```
 
 # Licence
