@@ -49,6 +49,39 @@ If you'd like to help, [get in touch](mailto:sallah.kokaina@synaptix-labs.com) a
 The main development happens on [Github](https://github.com/synaptix-labs/toast-tk-engine). To contribute, [fork](http://help.github.com/fork-a-repo/) the [main repo](https://github.com/synaptix-labs/toast-tk-engine), branch off a [feature branch](https://www.google.com/search?q=git+feature+branches) from master, make your changes and [commit](http://git-scm.com/docs/git-commit) them, [push](http://git-scm.com/docs/git-push) to your fork and submit a [pull request](http://help.github.com/send-pull-requests/).
 For the time being and once in a while, we merge pull requests into master, which results in a new snapshot update. 
 
+```
+.
+├── app
+│   ├── toast-tk-adapters
+│   ├── toast-tk-adapters-api
+│   ├── toast-tk-adapters-api
+│   │   ├── home
+│   │   │   ├── FirstCtrl.js
+│   │   │   └── SecondCtrl.js
+│   │   └── about
+│   │       └── ThirdCtrl.js
+│   ├── directives
+│   │   ├── home
+│   │   │   └── directive1.js
+│   │   └── about
+│   │       ├── directive2.js
+│   │       └── directive3.js
+│   ├── filters
+│   │   ├── home
+│   │   └── about
+│   └── services
+│       ├── CommonService.js
+│       ├── cache
+│       │   ├── Cache1.js
+│       │   └── Cache2.js
+│       └── models
+│           ├── Model1.js
+│           └── Model2.js
+├── LICENSE
+├── pom.xml
+└── README.md
+```
+
 # Licence
 
 Toast Toolkit (Toast TK)
