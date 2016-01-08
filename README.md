@@ -7,6 +7,10 @@ Toast TK Engine provides a concise, self-explanatory and type safe way for writi
 ## Example
 A scenario action: “Navigate to url *http://www.google.com*”  
 Would be written, in Toast, as follows: 
+
+
+    npm install markdown
+
 ```
 Navigate to url {{value:string}} 
 ```
